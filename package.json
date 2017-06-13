@@ -1,0 +1,12 @@
+{
+  "name": "netBugs",
+  "version": "0.0.1",
+  "description": "網路爬蟲 o~",
+  "main": "index.js",
+  "repository": "https://github.com/overmindx1/netBugs.git",
+  "author": "Overmind , Owen",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1"
+  }
+}
